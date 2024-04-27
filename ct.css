@@ -1,0 +1,51 @@
+
+*{
+    margin: 0;
+}
+
+#countButton{
+    font-size: 20px;
+    color: #333;
+    font-weight: bold;
+    margin-left: 50px;
+    cursor: pointer;
+    margin-top: 20px;
+    border: none;
+    border-radius: 5px;
+}
+#countButton:hover{
+    color: white;
+    background-color: cadetblue;
+}
+#text{
+    font-size: 20px;
+    color: #333;
+    font-weight: bold;
+    margin-left: 500px;
+    cursor: text;
+    margin-top: 20px;
+
+}
+h1{
+    font-size: 30px;
+    background-color: cadetblue;
+    height: 50px;
+    color: #fff;
+    font-family:sans-serif;
+    padding: 5px;
+    text-align: center;
+    font-weight: bold;
+}
+#result{
+    font-size: 20px;
+    color: #333;
+    font-weight: bold;
+    margin-left: 500px;
+    width: 200px;
+}
+#wordCount{
+    font-size: 30px;
+    color: #333;
+    text-decoration: underline;
+    font-weight: bold;
+}
